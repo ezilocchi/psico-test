@@ -4,7 +4,8 @@
   "description": "psychological tests for autism",
   "main": "psico-tests.js",
   "scripts": {
-    "test": "grunt test --verbose"
+    "test": "grunt test --verbose",
+    "build": "grunt --verbose"
   },
   "repository": {
     "type": "git",
